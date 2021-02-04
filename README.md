@@ -66,7 +66,7 @@ Alternatively, [find me on telegram](https://t.me/al_cuteid)! (Keep all support 
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jagoanpilot/IzunaTelebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jagoanpilot/Izuna)
 
 
 An example `config.env` file could be:
